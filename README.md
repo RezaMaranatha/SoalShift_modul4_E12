@@ -11,4 +11,5 @@ Untuk mengerjakan nomor 3, kita harus mengecek apakah suatu file memiliki group 
 
 # 4
 Untuk mengerjakan nomor 4, kita perlu mengecek apakah suatu direktori merupakan subdirektori dari folder YOUTUBE. Jika iya, maka setiap folder akan memiliki permission 750 dan file akan memiliki permission 640 dan pada file akan ditambah ekstensi "iz1" File berekstensi “.iz1” tidak bisa diubah permissionnya dan memunculkan error bertuliskan “File ekstensi iz1 tidak boleh diubah permissionnya.”
- 
+
+# 5
