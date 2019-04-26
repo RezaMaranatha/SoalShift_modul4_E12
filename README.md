@@ -13,5 +13,5 @@ Untuk mengerjakan nomor 3, kita harus mengecek apakah suatu file memiliki group 
 Untuk mengerjakan nomor 4, kita perlu mengecek apakah suatu direktori merupakan subdirektori dari folder YOUTUBE. Jika iya, maka setiap folder akan memiliki permission 750 dan file akan memiliki permission 640 dan pada file akan ditambah ekstensi "iz1" File berekstensi “.iz1” tidak bisa diubah permissionnya dan memunculkan error bertuliskan “File ekstensi iz1 tidak boleh diubah permissionnya.”
 
 # 5
-Untuk nomor 5, kita diminta untuk membuat backup suatu file ketika kita sedang meng-edit kemudian melakukan save terhadap file tersebut. File tersebut akan dibuat backupnya dengan `format namafile_[timestamp].ekstensi`. Kemudian pada saat file di hapus, akan terbuat folder RecycleBin untuk menampung file yang di hapus setelah di zip terlebih dahulu. Setelah dipindah ke RecycleBin, hapus file asli.
+Untuk nomor 5, kita diminta untuk membuat backup suatu file ketika kita sedang meng-edit kemudian melakukan save terhadap file tersebut. File tersebut akan dibuat backupnya dengan format `namafile_[timestamp].ekstensi`. Kemudian pada saat file di hapus, akan terbuat folder RecycleBin untuk menampung file yang di hapus setelah di zip terlebih dahulu. Setelah dipindah ke RecycleBin, hapus file asli.
   
