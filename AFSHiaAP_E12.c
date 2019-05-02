@@ -56,7 +56,7 @@ void encrypt(char text[1000], int key){
 		for(int j=0;j<94;++j){
 			if(text[i]==chrlist[j]){	
 				if((94-j)>key)   {
-					resu[i]=chrlist[j+ke];	
+					resu[i]=chrlist[j+key];	
 					j=94;
 				}
 				else {
